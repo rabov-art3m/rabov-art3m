@@ -1,22 +1,22 @@
 <h1 align="center">Artem Rabov</h1>
 
 <p align="center">
-  ML Engineer focused on Recommender Systems, Information Retrieval and LLM/RAG products
+  ML Engineer focused on recommendation ranking, search personalization and LLM/RAG systems
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/artem-rabov">
-    <img src="https://img.shields.io/badge/LinkedIn-Artem%20Rabov-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Artem%20Rabov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rabov.art3m@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rabov.art3m%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-rabov.art3m%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=rabov-art3m&style=flat-square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=rabov-art3m&style=for-the-badge&color=blue" />
 </p>
 
 ---
 
-### About me
+## About me
 
 I like building ML systems that do not just work in notebooks, but become part of real products.
 
@@ -30,11 +30,11 @@ My main interests are recommender systems, neural ranking, information retrieval
 
 ---
 
-### Current focus
+## Current focus
 
 ```text
-Recommendations       neural ranking, candidate scoring, ranking-stage optimization
-Search & IR           personalization, LTR, click-based models, OpenSearch
-LLM / RAG             knowledge assistants, agents, retrieval pipelines
-Applied ML            scoring, classification, feature engineering, analytics
-ML Engineering        production-oriented systems, experiments, data pipelines
+Recommendations       Neural ranking, candidate scoring, ranking-stage optimization
+Search & IR           Personalization, LTR, click-based models, OpenSearch
+LLM / RAG             Knowledge assistants, agents, retrieval pipelines
+Applied ML            Scoring, classification, feature engineering, analytics
+ML Engineering        Production-oriented systems, experiments, data pipelines
