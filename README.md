@@ -16,7 +16,7 @@
   </a>
 </p>
 
----
+
 
 ## About me
 
@@ -30,7 +30,7 @@ I also have experience designing AI assistants based on NLP and RAG architecture
 
 My main interests are recommender systems, neural ranking, information retrieval, deep learning and scalable ML systems.
 
----
+
 
 ## What I work with
 
@@ -57,7 +57,7 @@ My main interests are recommender systems, neural ranking, information retrieval
   </tr>
 </table>
 
----
+
 
 ## Tech stack
 
@@ -65,7 +65,7 @@ My main interests are recommender systems, neural ranking, information retrieval
   <img src="https://skillicons.dev/icons?i=python,cpp,go,pytorch,git,docker,linux" />
 </p>
 
----
+
 
 ## Experience highlights
 
