@@ -62,7 +62,7 @@ My main interests are recommender systems, neural ranking, information retrieval
 ## Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,go,pytorch,git,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,go,pytorch,git,docker,linux,redash,grafana,jira,airflow" />
 </p>
 
 
