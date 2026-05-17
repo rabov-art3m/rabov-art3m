@@ -65,22 +65,6 @@ My main interests are recommender systems, neural ranking, information retrieval
   <img src="https://skillicons.dev/icons?i=python,cpp,go,pytorch,git,docker,linux" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
-  <img src="https://img.shields.io/badge/RAG-111111?style=flat-square"/>
-  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-4B5563?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Information%20Retrieval-111827?style
-
-
-=flat-square"/>
-  <img src="https://img.shields.io/badge/Neural%20Ranking-0A66C2?style=flat-square"/>
-</p>
-
 ---
 
 ## Experience highlights
