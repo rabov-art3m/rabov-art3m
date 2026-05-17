@@ -74,7 +74,6 @@ My main interests are recommender systems, neural ranking, information retrieval
   <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white"/>
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
   <img src="https://img.shields.io/badge/A%2FB%20Testing-4B5563?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Learning%20to%20Rank-0A66C2?style=flat-square"/>
   <img src="https://img.shields.io/badge/Information%20Retrieval-111827?style
 
 
