@@ -62,10 +62,11 @@ My main interests are recommender systems, neural ranking, information retrieval
 ## Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,sklearn,postgres,git,github,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,go,pytorch,git,docker,linux" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black"/>
   <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
@@ -74,13 +75,10 @@ My main interests are recommender systems, neural ranking, information retrieval
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
   <img src="https://img.shields.io/badge/A%2FB%20Testing-4B5563?style=flat-square"/>
   <img src="https://img.shields.io/badge/Learning%20to%20Rank-0A66C2?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Informa
-Artem Rabov
-Artem Rabov
-t.me
+  <img src="https://img.shields.io/badge/Information%20Retrieval-111827?style
 
 
-tion%20Retrieval-111827?style=flat-square"/>
+=flat-square"/>
   <img src="https://img.shields.io/badge/Neural%20Ranking-0A66C2?style=flat-square"/>
 </p>
 
